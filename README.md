@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/nocolor06">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>
-  <a href="mailto:giangbeo18@gmail.com">
+  <a href="mailto:giangpt.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=nocolor06&style=for-the-badge&color=red" alt="Profile Views"></a>
