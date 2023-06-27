@@ -17,7 +17,7 @@
   </a>
 <a href="#"><img src="https://komarev.com/ghpvc/?username=nocolor06&style=for-the-badge&color=red" alt="Profile Views"></a>
 </p>
-<h2 >
+<h2>
 💫Get to know about me
 </h2>
 <p dir="auto"><strong>Being junior student in FPT University with interests logic analysis skills, I'm focusing on back-end web development and a few aspects of front-end development.</strong></p>
@@ -25,8 +25,9 @@
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on Back-end Web Development and try to become Full-stack Web Development</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Spring Boot and ASP.NET Core</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on projects</li>
+</ul>
 <h2>💻Skills</h2>
-	<ul dir="auto">
+<ul dir="auto">
 <li>
 <p dir="auto"><strong>Languages</strong>:</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" style="max-width: 100%;"></a>
