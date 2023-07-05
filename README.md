@@ -61,6 +61,6 @@
 </ul>
 <h2>📊 GitHub Profile Stats</h2>
 <div align="center" dir="auto">
-	<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nocolor06&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true&amp;theme=dark" style="max-width: 100%;"></a>
-	<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocolor06&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nocolor06&amp;show_icons=true&amp;hide_border=true&amp;&amp;count_private=true&amp;include_all_commits=true&amp;theme=dark;" style="max-width: 100%;"></a>
+	<a target="_blank" rel="noopener noreferrer nofollow" href="#"><img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nocolor06&amp;theme=dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"></a>
 </div>
